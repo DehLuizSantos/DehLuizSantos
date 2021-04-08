@@ -1,16 +1,50 @@
-### Hi there 👋
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There!! </h1>
 
-<!--
-**DehLuizSantos/DehLuizSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <h3>Portfólio: <a href="p</a></h3>
 
-Here are some ideas to get you started:
+  <img src='https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif' width='200'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+
+  **Estudante de desenvolvimento Full-Stack :man_technologist:**
+    
+  **São Paulo/SP- Brasil :earth_americas:**
+  
+</div>
+
+<div align="center">
+  
+  ## Stack
+  
+  ![React Badge](https://img.shields.io/badge/react-DD0031?style=for-the-badge&logo=react&logoColor=white)
+  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+    ![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  
+  ## Contato
+  
+  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DehLuizSantos)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:and_consul@outlook.com)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-844207102/)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/and_bas7/)
+  
+  
+</div>
+
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DehLuizSantos&layout=compact)](https://github.com/DehLuizSantos)
+
+</div>
+
+<div align="center">
+  
+  [![André Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=DehLuizSantos&hide=contribs,issues&show_icons=true)](https://github.com/DehLuizSantos)
+  
+</div>

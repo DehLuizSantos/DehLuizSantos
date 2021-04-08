@@ -9,8 +9,10 @@
 </div>
 
 <div align="center">
+  
+  **I'm André Luiz Santos
 
-  **Estudante de desenvolvimento Full-Stack :man_technologist:**
+  **Front end/ Full stack development student :man_technologist:**
     
   **São Paulo/SP- Brasil :earth_americas:**
   

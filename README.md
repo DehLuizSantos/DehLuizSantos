@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  **I'm André Luiz Santos
+  <h1>I'm André Luiz Santos<h1>
 
   **Front end/ Full stack development student :man_technologist:**
     

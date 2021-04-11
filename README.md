@@ -12,9 +12,9 @@
   
   <h1>I'm André Luiz Santos<h1>
 
-  ***Front end/ Full stack development student :man_technologist:***
+###Front end/ Full stack development student :man_technologist:###
     
-  ***São Paulo/SP- Brasil :earth_americas:***
+ ###São Paulo/SP- Brasil :earth_americas:###
   
 </div>
 

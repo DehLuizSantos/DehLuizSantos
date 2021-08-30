@@ -1,20 +1,17 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There!! </h1>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There!! </h2>
 
 <div align="center">
   
    <img src='https://media4.giphy.com/media/unQ3IJU2RG7DO/giphy.gif' width='250'>
-   
-
-
 </div>
 
 <div align="center">
   
-  <h1>I'm André Luiz Santos<h1>
+ ### I'm André Luiz Santos
 
-<p>Front end develop :man_technologist:</p>
+<p height="30" width="40" >Front end develop :man_technologist:</p>
     
- <p>São Paulo/SP- Brasil :earth_americas:</p>
+ <p height="30" width="40">São Paulo/SP- Brasil :earth_americas:</p>
 </div>
 
 <div align="center">

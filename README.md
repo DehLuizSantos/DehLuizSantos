@@ -49,6 +49,3 @@
 ![Badge](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DehLuizSantos&&show_icons=true&title_color=ffffff&icon_color=31a8ff&text_color=e1e1e1&bg_color=262626" />
-</p>

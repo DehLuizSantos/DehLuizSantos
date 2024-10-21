@@ -22,7 +22,7 @@
   </a>
 </p>
 
-- Tenho 32 anos e 4 anos de experiência em Desenvolvimento Web;
+- Tenho 32 anos e 5 anos de experiência em Desenvolvimento Web;
 
 - Eu sou Desenvolvedor Fullstack Pleno JavScript/Typescript, com noções de Web-Designer.;
 

@@ -30,6 +30,8 @@
 
 - Minha experiência em Backend está voltada em Node, NestJs, Express, SQL, Mongo, JWT e AWS;
 
+Portifólio: https://portifolio-next14-five.vercel.app/
+
 
 ### Tecnologias & Ferramentas
 

@@ -24,7 +24,7 @@
 
 - Tenho 32 anos e 5 anos de experiência em Desenvolvimento Web;
 
-- Eu sou Desenvolvedor Fullstack Pleno JavScript/Typescript, com noções de Web-Designer.;
+- Eu sou Desenvolvedor Fullstack Senior JavaScript/Typescript, com noções de Web-Designer.;
 
 - Minha experiência em Frontend está voltada em React.JS, Next.JS, Styled-components, MaterialUI, Mantine e AntDesign;
 

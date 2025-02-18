@@ -44,7 +44,6 @@ Portifólio: https://portifolio-next14-five.vercel.app/
 ![Badge](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Badge](https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Badge](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
-![Badge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Badge](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Badge](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
